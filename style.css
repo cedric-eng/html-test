@@ -1,0 +1,18 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  width: 980;
+  margin: 0auto;
+}
+/* Added */
+.header {
+  background-: #F5B4B3;
+  height: 50px;
+  font-size: 1.5rem;
+}
+/* Added */
+  .logo_image {
+    width: 110px;
+    margin: 0;
+}
